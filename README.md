@@ -1,6 +1,8 @@
-![Screenshot Login Page](https://user-images.githubusercontent.com/84654265/206907895-159990a5-37b9-4534-a886-6a33359f3f0c.png)
-
 # Typical_Login_Page
+
+![Screenshot Login Page](https://user-images.githubusercontent.com/84654265/206907997-afe83ebb-1780-4190-96aa-41e5af002238.png)
+After logging in:
+![Screenshot 2022-12-11 at 16-59-42 React App](https://user-images.githubusercontent.com/84654265/206908066-e1e64d00-7147-490b-82d5-6b0a6ba5f60a.png)
 
 ### Downloading code snapshots
 
